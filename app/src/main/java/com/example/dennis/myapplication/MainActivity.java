@@ -11,6 +11,7 @@ public class MainActivity extends ActionBarActivity {
 
     int  zahl;
     double zahl2;
+    int zahl3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
